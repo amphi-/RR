@@ -1,2 +1,2 @@
-RR - simple registry reader - development status
+sRR - simple registry reader - development status
 
