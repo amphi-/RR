@@ -3,6 +3,7 @@ Created on 26.02.2015
 
 @summary: registry parsers
     @author: Simon Döbereiner
+		@license: GPL v2
 '''
 
 from mimetypes import _winreg
