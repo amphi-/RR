@@ -1,2 +1,2 @@
-sRR - simple registry reader - development status
+sRR - simple registry reader written in Python - development status
 
